@@ -33,21 +33,15 @@ Edit
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/Neahdemi/UK-housing-market-analysis.git
-Navigate to the project folder:
-bash
-Copy
-Edit
-cd UK-housing-market-analysis
-Install dependencies:
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Streamlit application:
-bash
-Copy
-Edit
-streamlit run app.py
+2. **Navigate to the project folder**:
+   ```bash
+   cd UK-housing-market-analysis
+3. **Install dependencies**:
+  ```bash
+   pip install -r requirements.txt
+4. **Run the Streamlit application**:
+   ```bash
+   streamlit run app.py
 
 Usage Examples
 Include screenshots or code snippets that demonstrate the analyses or visualizations.
