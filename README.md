@@ -25,10 +25,6 @@ This project analyzes the UK housing market using publicly available data. The g
 ## Project Structure
 UK-Housing-Market-Analysis/ ├── data/ # Raw datasets ├── notebooks/ # Jupyter notebooks ├── scripts/ # Python scripts for analysis ├── visualizations/ # Charts and graphs ├── app.py # Streamlit web application ├── requirements.txt # Python dependencies └── README.md # Project documentation
 
-bash
-Copy
-Edit
-
 ## How to Run the Project
 1. **Clone this repository**:
    ```bash
@@ -38,15 +34,16 @@ Edit
    cd UK-housing-market-analysis
 3. **Install dependencies**:
   ```bash
-   pip install -r requirements.txt
+    pip install -r requirements.txt
+```
 4. **Run the Streamlit application**:
    ```bash
    streamlit run app.py
 
-Usage Examples
+## Usage Examples
 Include screenshots or code snippets that demonstrate the analyses or visualizations.
 
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 
 ## Insights
